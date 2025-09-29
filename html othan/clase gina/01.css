@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+h1 {
+    background-color: gold;
+    width: fit-content;
+    color: black;
+    width: fit-content;
+    text-transform: lowercase;
+    margin: auto;
+}
+
+p {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    text-align: center;
+}
+
+li {
+    background-color: gold;
+    color: black;
+    text-align: center;
+    margin: auto;
+}
+
+.uno {
+    color: brown;
+}
+
+.dos {
+    color: aquamarine;
+}
+
+.tres {
+    color: bisque;
+}
