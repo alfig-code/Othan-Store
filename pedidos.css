@@ -11,7 +11,7 @@ body {
 
 .form-floating {
   color: rgb(66, 56, 0);
-  font-size:medium;
+  font-size: medium;
   max-width: 50%;
 }
 
@@ -87,7 +87,6 @@ main h1 {
   padding: 150px;
   text-align: center;
 }
-
 
 /* ====== FOOTER ====== */
 

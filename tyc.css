@@ -6,21 +6,21 @@ body {
 }
 
 header {
-            text-align: center;
-            padding: 30px 20px;
-            background: linear-gradient(135deg, #000000, #1c1c1c);
-            color: goldenrod;
-        }
+  text-align: center;
+  padding: 30px 20px;
+  background: linear-gradient(135deg, #000000, #1c1c1c);
+  color: goldenrod;
+}
 
-        header img {
-            max-width: 100px;
-            margin: 10px 0;
-        }
+header img {
+  max-width: 100px;
+  margin: 10px 0;
+}
 .barra-superior {
   display: flex;
   justify-content: center; /* centra horizontalmente */
 }
-header a{
+header a {
   color: goldenrod;
 }
 
@@ -37,15 +37,12 @@ header a{
 /* Menú lateral */
 .sidebar {
   position: sticky;
-  top: 20px;                /* separa un poco del top */
-  max-width: 220px;          /* ancho más compacto */
-  font-size: 14px;           /* letra más pequeña */
-  line-height: 1.5;          /* espacio entre enlaces */
+  top: 20px; /* separa un poco del top */
+  max-width: 220px; /* ancho más compacto */
+  font-size: 14px; /* letra más pequeña */
+  line-height: 1.5; /* espacio entre enlaces */
   padding: 15px;
   margin-left: -40px;
-
-
-
 }
 
 .sidebar h2 {
@@ -85,14 +82,13 @@ header a{
   margin-left: -20px;
 }
 
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #000;
+  color: #aaa;
+}
 
- footer {
-            text-align: center;
-            padding: 20px;
-            background: #000;
-            color: #aaa;
-        }
-
-        footer h2 {
-            color: goldenrod;
-        }
+footer h2 {
+  color: goldenrod;
+}
